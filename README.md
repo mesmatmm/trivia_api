@@ -23,6 +23,8 @@ All backend code follows [PEP8 style guidelines](https://www.python.org/dev/peps
 - [About the Stack](#About-the-Stack)
 - [Getting Started](#Getting-Started)
 - [API Reference](#API-Reference)
+- [Authors](#Authors)
+- [Acknowledgements](#Acknowledgements)
 
 ## About the Stack
 
