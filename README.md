@@ -535,9 +535,9 @@ The API will return three error types when requests fail:
 ## Screenshots
 
 <p float="left">
-  <img src="/screenshots/2.png" width="100" />
-  <img src="/screenshots/3.png" width="100" /> 
-  <img src="/screenshots/4.png" width="100" />
+  <img src="/screenshots/2.PNG" width="100" />
+  <img src="/screenshots/3.PNG" width="100" /> 
+  <img src="/screenshots/4.PNG" width="100" />
 </p>
 
 ## Authors
