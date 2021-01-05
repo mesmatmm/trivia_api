@@ -21,10 +21,10 @@ All backend code follows [PEP8 style guidelines](https://www.python.org/dev/peps
 ## Table of Contents
 
 - [About the Stack](#About-the-Stack)
-- [Project Scenario](#Project-Scenario)
-- [Project Files](#Project-Files)
+- [Getting Started](#Getting-Started)
+- [API Reference](#API-Reference)
 
-## About-the-Stack
+## About the Stack
 
 We started the full stack application for you. It is desiged with some key functional areas:
 
@@ -40,7 +40,7 @@ Pay special attention to what data the frontend is expecting from each API respo
 
 [View the README.md within ./frontend for more details.](./frontend/README.md)
 
-## Getting Started
+## Getting-Started
 
 ### Pre-requisites and Local Development
 
@@ -88,7 +88,7 @@ The first time you run the tests, omit the dropdb command.
 
 All tests are kept in that file and should be maintained as updates are made to app functionality.
 
-## API Reference
+## API-Reference
 
 ### Getting Started
 
