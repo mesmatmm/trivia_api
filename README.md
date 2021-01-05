@@ -12,19 +12,20 @@ This project is a virtual bank questions for users. By using this application, t
 
 All backend code follows [PEP8 style guidelines](https://www.python.org/dev/peps/pep-0008/).
 
-## Technical Skills & Concepts:
-
-- API Development and Documentation
-- Implementing well formatted API endpoints that leverage knowledge of HTTP and API development best practices.
-- The ability to structure plan, implement, and test an API - skills essential for enabling your future applications to communicate with others.
-
 ## Table of Contents
 
+- [Technical Skills & Concepts](#Technical-Skills-&-Concepts:)
 - [About the Stack](#About-the-Stack)
 - [Getting Started](#Getting-Started)
 - [API Reference](#API-Reference)
 - [Authors](#Authors)
 - [Acknowledgements](#Acknowledgements)
+
+## Technical-Skills-&-Concepts
+
+- API Development and Documentation
+- Implementing well formatted API endpoints that leverage knowledge of HTTP and API development best practices.
+- The ability to structure plan, implement, and test an API - skills essential for enabling your future applications to communicate with others.
 
 ## About the Stack
 
