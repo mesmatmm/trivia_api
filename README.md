@@ -14,7 +14,7 @@ All backend code follows [PEP8 style guidelines](https://www.python.org/dev/peps
 
 ## Table of Contents
 
-- [Technical Skills & Concepts](#Technical-Skills-&-Concepts)
+- [Technical Skills & Concepts](#Technical-Skills-and-Concepts)
 - [About the Stack](#About-the-Stack)
 - [Getting Started](#Getting-Started)
 - [API Reference](#API-Reference)
@@ -22,7 +22,7 @@ All backend code follows [PEP8 style guidelines](https://www.python.org/dev/peps
 - [Authors](#Authors)
 - [Acknowledgements](#Acknowledgements)
 
-## Technical-Skills-&-Concepts
+## Technical-Skills-and-Concepts
 
 - API Development and Documentation
 - Implementing well formatted API endpoints that leverage knowledge of HTTP and API development best practices.
@@ -535,9 +535,9 @@ The API will return three error types when requests fail:
 ## Screenshots
 
 <p float="left">
-  <img src="/screenshot/2.png" width="100" />
-  <img src="/screenshot/3.png" width="100" /> 
-  <img src="/screenshot/4.png" width="100" />
+  <img src="/screenshots/2.png" width="100" />
+  <img src="/screenshots/3.png" width="100" /> 
+  <img src="/screenshots/4.png" width="100" />
 </p>
 
 ## Authors
