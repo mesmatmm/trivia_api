@@ -18,6 +18,7 @@ All backend code follows [PEP8 style guidelines](https://www.python.org/dev/peps
 - [About the Stack](#About-the-Stack)
 - [Getting Started](#Getting-Started)
 - [API Reference](#API-Reference)
+- [Screenshots](#Screenshots)
 - [Authors](#Authors)
 - [Acknowledgements](#Acknowledgements)
 
@@ -530,6 +531,14 @@ The API will return three error types when requests fail:
   "success": true
 }
 ```
+
+## Screenshots
+
+<p float="left">
+  <img src="/screenshot/2.png" width="100" />
+  <img src="/screenshot/3.png" width="100" /> 
+  <img src="/screenshot/4.png" width="100" />
+</p>
 
 ## Authors
 
