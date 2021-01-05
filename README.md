@@ -14,7 +14,7 @@ All backend code follows [PEP8 style guidelines](https://www.python.org/dev/peps
 
 ## Table of Contents
 
-- [Technical Skills & Concepts](#Technical-Skills-&-Concepts:)
+- [Technical Skills & Concepts](#Technical-Skills-&-Concepts)
 - [About the Stack](#About-the-Stack)
 - [Getting Started](#Getting-Started)
 - [API Reference](#API-Reference)
